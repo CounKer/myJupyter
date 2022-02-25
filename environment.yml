@@ -9,5 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - pytorch
     - sklearn
+  - conda:
+    -pytorch
