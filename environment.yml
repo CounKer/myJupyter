@@ -1,6 +1,6 @@
 dependencies:
   - python=3
-  - pip:
+  - conda:
     - spacy
     - ipykernel
     - scipy
@@ -10,5 +10,5 @@ dependencies:
     - pandas
     - thinc
     - sklearn
-  - conda:
     - pytorch
+    
